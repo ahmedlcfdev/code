@@ -3,7 +3,7 @@
   "description": "Lorem ipsum",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://github.com/ahmedlcfdev/code/blob/master/3sk/iskapi/plugins.json",
+    "https://raw.githubusercontent.com/ahmedlcfdev/code/master/3sk/iskapi/plugins.json",
    
   ]
 }
